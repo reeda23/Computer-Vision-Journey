@@ -1,1 +1,1 @@
-# Computer-Vision-Journey
+# Open CV101 - OpenCV Basics
